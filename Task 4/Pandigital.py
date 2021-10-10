@@ -8,7 +8,4 @@ class Pandigital:
         :rtype: bool
         :return: Result analyse input data (true, false)
         """
-        if len(set(str(number))) == 10:
-            return True
-        else:
-            return False
+        return len(set(str(number))) == 10
