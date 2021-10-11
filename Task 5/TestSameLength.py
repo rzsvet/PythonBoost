@@ -23,6 +23,19 @@ class TestFormation(unittest.TestCase):
     def test_same_length_false_second(self):
         self.assertFalse(self.func.same_length(111))
 
+    # Each test method starts with the keyword test_
+    def test_same_length_second_true_first(self):
+        self.assertTrue(self.func.same_length_second(110011100010))
+
+    def test_same_length_second_false_first(self):
+        self.assertFalse(self.func.same_length_second(101010110))
+
+    def test_same_length_second_true_second(self):
+        self.assertTrue(self.func.same_length_second(111100001100))
+
+    def test_same_length_second_false_second(self):
+        self.assertFalse(self.func.same_length_second(111))
+
 
 if __name__ == "__main__":
     unittest.main()
