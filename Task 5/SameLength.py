@@ -57,3 +57,18 @@ class SameLength:
                 return False
             number = number[start_unit_after_zero:]
         return True
+
+    def same_length_answer(self, number: int) -> bool:
+        """ Функцию, которая возвращает True, если в переданном числе за каждой последовательностью единиц следует
+        последовательность нулей той же длины.
+
+        :param number: Input data for analyse
+        :type number: <int>
+
+        :rtype: bool
+        :return: Result analyse input data (true, false)
+        """
+        num_as_string = str(number)
+        while '10' in num_as_string:
+            num_as_string = num_as_string.replace('10', '')
+        return len(num_as_string) == 0
