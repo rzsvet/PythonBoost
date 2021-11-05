@@ -296,5 +296,5 @@ animals = ["dog", "cat", "bat", "cock", "cow", "pig", "fox", "ant", "bird", "lio
 
 ```
 #### Официальное решение
-[Ссылка на решение](#)
+[Ссылка на решение](https://pythonist.ru/sapyor/)
 
