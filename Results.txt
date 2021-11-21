@@ -4,7 +4,8 @@ Task  3 - 18
 Task  4 - 18
 Task  5 - 20
 Task  6 - 20
-Task  7 -
-Task  8 -
-Task  9 -
-Task 10 -
+Task  7 - 18
+Task  8 - 16
+Task  9 - 16
+Task 10 - 35
+Result  - 184
