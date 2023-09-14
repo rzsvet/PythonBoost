@@ -3,6 +3,10 @@
 ## Описание
 Репозиторий участника кодинг марафона в группе в https://t.me/pythonboost
 
+## Победители
+
+[Список победителей](https://t.me/pythonboost/424)
+
 ## Мой результат
 <strong>184 балла</strong>
 
@@ -389,3 +393,8 @@ animals = ["dog", "cat", "bat", "cock", "cow", "pig", "fox", "ant", "bird", "lio
 
 #### Официальное решение
 [Ссылка на решение](https://pythonist.ru/smozhete-li-vy-vyjti-iz-labirinta/)
+
+#### Визуализация решения
+
+[Визуализация решения](https://t.me/pythonboost/426)
+
