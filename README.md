@@ -398,3 +398,4 @@ animals = ["dog", "cat", "bat", "cock", "cow", "pig", "fox", "ant", "bird", "lio
 
 [Визуализация решения](https://t.me/pythonboost/426)
 
+[![Тест 1](./video/ScreenRecorderProject1.jpg)](./video/ScreenRecorderProject1.mp4)[![Тест 2](./video/ScreenRecorderProject2.jpg)](./video/ScreenRecorderProject2.mp4)
